@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **kazudevid/kazudevid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +13,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+### 🤝🏻 &nbsp;Connect with Me
+
+<p align="center">
+<a href="https://www.kazudev.id"><img src="https://img.shields.io/badge/-kazudev.id-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
