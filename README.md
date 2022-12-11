@@ -1,20 +1,10 @@
-### Hi there 👋
+![KazuDevID](https://pbs.twimg.com/media/FTqIj9-aUAAH8Aa.jpg)
 
-
-**kazudevid/kazudevid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-### 🤝🏻 &nbsp;Connect with Me
+## Hello, Welcome to My Profile!
 
 <p align="center">
-<a href="https://www.kazudev.id"><img src="https://img.shields.io/badge/-kazudev.id-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://github.com/kazudevid">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kazudevid&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kazudevid&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
